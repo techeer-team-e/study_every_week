@@ -19,9 +19,10 @@ Techeer - team E의 매주 스터디 기록을 기록하는 레포입니다.
 
 ### :heavy_check_mark: 인증
 
-각자 해당 주간에 공부한 내용을 issue에 남깁니다. issue comment에는 자신이 공부한 내용을 인증할 내용을 덧붙입니다. label을 통해 어떤 주제를 공부했는지 표기합니다. 확인이 완료된 issue는 closed됩니다.
+인증할 공부 내용을 각자 해당하는 주간 issue에 댓글로 남깁니다. issue는 매주 close하며 close되기 전에 기록을 남기면 참여 현황에 체크해 드립니다.
 - 예시  
 ![issue 예시](https://user-images.githubusercontent.com/55067949/132085203-b11a7191-e9c2-465a-b9e6-ffd2fcec4856.png)
+![comment 예시](https://user-images.githubusercontent.com/55067949/132115495-b93e2bb1-e4bb-4bdc-a197-bda6e9b6b3a7.png)
 
 ### :lock: 시험기간
 
